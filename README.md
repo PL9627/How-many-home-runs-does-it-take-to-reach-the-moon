@@ -1,4 +1,4 @@
-The distance to the moon from Earth is 238,900 miles or roughly 1.261 billion feet.  Which MLB position player last season would be able to reach that distance with the smallesst amount of home runs?
+The distance to the moon from Earth is 238,900 miles or roughly 1.261 billion feet.  Which MLB position player last season would be able to reach that distance with the least amount of home runs?
 
   That journey begins by first searching through the Baseball Savant website for the necessary data.  This particular website and the people behind it have been tracking MLB related advanced statistics since 2015.  
 Here I downloaded the csv files for the 2023 exit velocity and barrels leaderboard and a custom leaderboard containing home runs and plate appreances. These files contained the average home run distance and home run
